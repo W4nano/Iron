@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+li{
+    background-color: #222526;
+    text-decoration: none;
+}
+h1{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+h2{
+    color: red;
+    text-align: center;
+    font-size:xx-large;
+}
